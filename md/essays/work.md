@@ -1,0 +1,33 @@
+---
+title: 'work should feel good'
+publishedAt: '2025-06-07'
+summary: 'on bright people getting trapped in a negative relationship with work'
+---
+
+_"you know the secret, the difference between heaven and hell, is like, doing your work. you feel really shitty if you don't do your work. if you do your work, it's fuckin awesome"_ -terry a davis
+
+having a negative relationship with work is incredibly destructive. once you've reached the point where the verb 'work' instinctually connects to bad feelings, you're caught in a feedback loop -- it takes work to repair a relationship with work, but work feels bad, so naively trying to work your way out of it just makes the whole mess worse. it doesn't really help that our culture turns this emotional pain into a moral failing. being functionally 'unable to work' is interpreted as being defective, leeching off others. so the feedback loop traps you between a rock and a hard place -- either you don't work much (you're a leech, which feels awful) or you naively try to force yourself to work (which feels awful because you have a negative relationship with work).
+
+the cultural messaging is there for a reason -- i get it. at some point, the world only operates if a certain level of contribution is made. even marx said 'from each according to their ability'. 
+
+but like a lot of broad cultural themes, 'you cannot work, ergo you are bad' flattens complex individual psychic terrain and causes a lot of damage on the margins. 
+
+there's obviously a large contingent of people who struggle with their relationship to work, and hate themselves for it. our collective psyche is full of guilt around not working. see the endless instragram webcomics about the mental torment of ADHD locking somebody out of the things they 'really want to do', see the burnout-gifted-child thoughtpieces bemoaning failure to self-actualize into the movers-and-shakers the world promised they would become. these people are clearly tormented by their relationship to work. they don't enjoy the feeling of being behind, underperforming, failing to manage the day-to-day affairs of their life. there's no obvious pleasure in their lackadaisical habits. they're in hell. 
+
+there's a lot of things we could blame here. like all issues involving large-scale psychic distress, it's almost certainly not caused by one thing.
+
+_but_, if was caused by one thing, it's hard to argue against that one thing being conventional schooling 
+
+the entire system rebukes and discards work as a nourishing [project of one's own](https://paulgraham.com/own.html) and turns it into a bureaucratic obstacle course that ends in achieving [a good grade on a test](https://www.paulgraham.com/lesson.html) by any means necessary -- studying, strong-arming teachers, cheating are all viable solutions. we immerse children in a world where work isn't an earnest product of their own desires and identity, but a sisyphean paint-by-numbers operation attempting to appease some adult's inscrutable criteria. it's impossible to overstate how crushing it is to be in an environment where most of the things your earnest child-ego is willing to go all-out on, really pour itself into, will almost always be maligned as secondary to checking some boxes that can be cashed out for useful professional credentials 10-15 years down the line. it's gross. i don't care if kids are passionate about 'silly' things like getting really good at yu-gi-oh or playing the harmonica. it's so important for them to internalize how good it feels to pursue something and reap rewards for it. this is an attitude that a developed ego can later bring to anything it sees value in -- and i really think most bright young people will eventually see the value in calculus and writing skills. 
+
+that aside, here i am, an adult. i've completed my both my primary and secondary schooling and suffered all the standard psychic damage discussed above. i don't talk about ADHD webcomics and gifted-child thought pieces disparagingly -- i have love in my heart here, i get it man, i am there.
+
+but what's to be done about it? we can muse about our strained relationship to work all we want, but at the end of the day, suffering doesn't stop until something changes. 
+
+it took a lot of subtle-internal personal development to get to the point where i felt ready to revisit 'working hard', able to entertain it as something that could (really, should) be intrinsically pleasant and motivating -- as opposed to something i need to psychically force myself to do while overprotective/native/traumatized parts of my psyche scream bloody murder at me. this is all a bit beyond the scope of what i'm talking about today, but i'm very sympathetic to anyone who's still doing that. please don't take this essay as another voice telling you to 'try again but try harder this time'. i'm not so far out as to not remember when 'work' felt indescribably, invisibly bad in a way that i would instinctually recoil from. getting over that initial hurdle is a subtle process. since it's all ineffable internal stuff, it's always a personal way-finding process with few generalized solutions. i think this these kinds of emotional blockages are typically pre-verbal, mapped to feelings that wreck havoc on a foundational level, a deep place higher-level linguistic thinking doesn't have much access to. personally, IFS and [healing the shame that binds you](https://www.amazon.com/Healing-Shame-Binds-Recovery-Classics/dp/0757303234) did me more good than anything else, but that's just me. everyone needs to find what works for them. 
+
+i'm in no way out of the woods, but i've made some headway. i just wrapped up my first week of the [fractal bootcamp](https://fractalbootcamp.com/), where i was putting in ten-hour days writing and shipping code. i've never done this much work in a week, ever -- and i had a blast doing it. if i could go back and tell my 2019 self -- totally stuck in self-hating miasma -- that i'd be here in six years, he'd probably cry. 
+
+i didn't get here by trying to gritting my teeth and trying to lock in (but for real this time i promise... but for real this time i promise...). i got here by stepping away from 'work is bad, i am bad because i am not working, i have to work', into 'the problem is that work does not feel safe -- what can i do, right now, in the moment, to maybe feel one-percent more safe working?'
+
+it adds up. it's fuckin awesome. 
