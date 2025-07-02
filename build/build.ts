@@ -42,11 +42,6 @@ for (const file of mds) {
   const slug = file.replace(/\.md$/, '')
   const outPath = path.join(distDir, `${slug}.html`)
   await fs.writeFile(outPath, filledHtml, 'utf-8')
-
-  console.log({
-    slug,
-    frontmatter: data,
-  })
 }
 
 for (const file of pubs) {
@@ -54,3 +49,5 @@ for (const file of pubs) {
   const dest = path.join(distPubDir, file)
   await fs.copyFile(src, dest)
 }
+
+console.log('build complete')
