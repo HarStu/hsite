@@ -1,4 +1,16 @@
 {
+  "name": "src",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "^1.2.17",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^24.0.10"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
   "dependencies": {
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0"
