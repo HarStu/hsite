@@ -8,7 +8,7 @@ const md = new MarkdownIt()
 const mdDir = path.resolve(__dirname, '../md')
 const files = await fs.readdir(mdDir)
 
-for (const file of mdDir) {
+for (const file of files) {
   if (!file.endsWith('.md')) {
     console.log('non-markdown file')
     continue

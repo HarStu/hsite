@@ -1,5 +1,5 @@
 {
-  "name": "src",
+  "name": "hsite",
   "module": "index.ts",
   "type": "module",
   "private": true,
@@ -7,6 +7,9 @@
     "@types/bun": "^1.2.17",
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^24.0.10"
+  },
+  "scripts": {
+    "build": "bun run build/build.ts"
   },
   "peerDependencies": {
     "typescript": "^5"
