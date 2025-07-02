@@ -1,4 +1,4 @@
 # essays
 
-- [fast is good, slow is fine](./essays/fastslow.mdx)
-- [work should feel good](./essays/work.mdx)
+- [fast is good, slow is fine](./fastslow.html)
+- [work should feel good](./work.html)
