@@ -9,8 +9,7 @@
     "@types/node": "^24.0.10"
   },
   "scripts": {
-    "build": "bun run build/build.ts",
-    "autoBuild": "bun run --watch build/build.ts"
+    "build": "bun run build/build.ts"
   },
   "peerDependencies": {
     "typescript": "^5"
