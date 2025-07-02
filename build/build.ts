@@ -15,6 +15,7 @@ const templatePath = path.resolve(__dirname, '../templates/template.html')
 const template = await fs.readFile(templatePath, 'utf-8')
 
 const distDir = path.resolve(__dirname, '../dist/')
+await fs.rm(distDir, { recursive: true, force: true })
 await fs.mkdir(distDir, { recursive: true })
 
 const distPubDir = path.resolve(__dirname, '../dist/public')
@@ -40,6 +41,7 @@ for (const file of mds) {
     .replace('{{content}}', html)
 
   const slug = file.replace(/\.md$/, '')
+
   const outPath = path.join(distDir, `${slug}.html`)
   await fs.writeFile(outPath, filledHtml, 'utf-8')
 }
