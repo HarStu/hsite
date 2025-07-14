@@ -1,6 +1,6 @@
 # H Moncrief
 
-Hi, my name is Harrison. I also go by my middle name, 'Moncrief'. This is my website. You'll have to forgive the simplicity -- it's a work in progress
+Hi, my name is Harrison. I also go by my middle name, 'Moncrief'. This is my website. You'll have to forgive the simplicity -- it's a work in progress. 
 
 A bit more about me -- I'm a software engineer, a dual US-Canadian citizen, and a former english literature student. I'm interested in prosocial technology, ambitious literature, armchair phenomenology, difficult games, emergent behavior, and home cooking
 
