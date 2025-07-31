@@ -8,4 +8,4 @@ Recently, I moved from Canada to NYC to take part in the [Fractal AI Accelerator
 
 My recent long-form writing is located [here](./essays.html)
 
-I'm currently looking for interesting work in NYC, preferably with a startup. You can find my resume [here](./public/HarrisonStuartResume.pdf). If you're a founder who has a problem I might enjoy working on, I'd love to chat about doing a short-term externship with you! You can reach me at the email in my resume
+
