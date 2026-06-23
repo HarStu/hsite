@@ -1,7 +1,7 @@
 # Favorites
 _& short thoughts on each_
 
-### Novels
+## Novels
 _Broadly, I enjoy novels that unflinchingly model the interior life of a character or characters grappling with something they can't directly grasp. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
 
 **Fifteen Dogs**
@@ -23,7 +23,7 @@ may not be the most the most subtle or artistically ambitious novel ishiguro has
 is about being twenty. i was twenty once. 
 
 
-### Nonfiction, Spirituality, Theory, Essays
+## Nonfiction, Spirituality, Theory, Essays
 _Models I return to_
 
 **Meditation from Cold Start to Complete Mastery: a Manual of Global Wayfinding Meditation**
@@ -42,7 +42,7 @@ describes the distinction, 'contact' and 'networking' interactions, a clear and 
 is a rare, comprehensive, vulnerable reflection on the way men struggle. too much writing on men's issues is reactionary or neurotically hedged. while i don't agree with all three hundred, i'm deeply grateful this document exists. it made me feel loved and seen in a way little else has.
 
 
-### Games
+## Games
 _Games are broadly wasted on gamers_
 
 **Street Fighter III: Third Strike**
@@ -60,7 +60,7 @@ is a direct injection game-as-visceral-sensory-pleasure. where developers throw 
 **Dark Souls**
 , well, everything that can be said about it has been. it really is that good. 
 
-### Misc
+## Misc
 _Other things_
 
 **The Toronto Blue Jays**
