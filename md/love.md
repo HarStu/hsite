@@ -1,10 +1,10 @@
 # Favorites
 _& short thoughts on each_
 
-###### Novels
+### Novels
 _Broadly, I enjoy novels focused on subtle, naturalistic interiority. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
 
-**Fifteen Dogs**
+#### Fifteen Dogs
 rending, unblinking, and full of love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
 
 **The Once and Future King**
@@ -23,7 +23,7 @@ ishiguro is my favorite author, and i love everything he's written. never let me
 nothing else is so true about being twenty. 
 
 
-###### Nonfiction, Spirituality, Theory, Essays
+### Nonfiction, Spirituality, Theory, Essays
 _Models I return to_
 
 **Meditation from Cold Start to Complete Mastery: a Manual of Global Wayfinding Meditation**
@@ -36,12 +36,12 @@ as close to a wise friend as a book can be
 defines a remarkably useful vocabulary for talking about the relationship between tech companies and the public.
 
 **...Three, Two, One, Contact: Times Square Red**
-delaney's distinction between 'contact' and 'networking' interactions is the sort of fork you'll see everywhere forever
+delaney's distinction between 'contact' and 'networking' interactions is the sort of obvious fork that can't ever be unseen
 
 **Three Hundred Ways It Can Hurt To Be a Man**
 a rare, comprehensive, empathetic reflection on the way men struggle. too much writing on men's issues is reactionary or neurotically hedged. while i don't agree with all three hundred, i'm deeply grateful this document exists. it made me feel loved and seen in a way little else has.
 
-###### Games
+### Games
 _Games are broadly wasted on gamers_
 
 **Street Fighter III: Third Strike**
@@ -59,7 +59,7 @@ game-as-visceral-sensory-pleasure overdose
 **Dark Souls**
 everything that can be said about it has been. it really is that good. 
 
-###### Misc
+### Misc
 _Other things, sillier things_
 
 **The Toronto Blue Jays**
