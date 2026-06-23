@@ -17,17 +17,17 @@ is as close to a perfect novel as anyone has ever come. left me speechlessly gra
 is an old favorite that i will not return to until i'm a father. 
 
 **Never Let Me Go**
-may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one I cried the hardest over. ishiguro is my favorite author, and it stands for him on this list. 
+may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one I cried the hardest over. ishiguro is my favorite author, and never let me go stands for him on this list.
 
 **Norweigan Wood**
-is about being twenty. i was twenty once. 
+is my favorite novel about coming-of-age
 
 
 ## Nonfiction, Spirituality, Theory, Essays
 _Models I return to_
 
 **Meditation from Cold Start to Complete Mastery: a Manual of Global Wayfinding Meditation**
-is closer to a totalizing memetic object than anything else i've ever explored. really ""gets it"".
+is the most useful, granular guide to inner work i've ever encountered
 
 **A Path With Heart**
 is as close to a wise friend as a book can be
@@ -36,7 +36,7 @@ is as close to a wise friend as a book can be
 defines a remarkably useful vocabulary for talking about the relationship between tech companies and the public.
 
 **...Three, Two, One, Contact: Times Square Red**
-describes the distinction, 'contact' and 'networking' interactions, a clear and useful fork i'll never unsee
+describes an incredibly obvious and useful distinction between 'contact' and 'networking' interactions. one of those forks that can't be unseen.
 
 **Three Hundred Ways It Can Hurt To Be a Man**
 is a rare, comprehensive, vulnerable reflection on the way men struggle. too much writing on men's issues is reactionary or neurotically hedged. while i don't agree with all three hundred, i'm deeply grateful this document exists. it made me feel loved and seen in a way little else has.
