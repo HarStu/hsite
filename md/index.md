@@ -7,7 +7,5 @@ I'm a software engineer, a dual US-Canadian citizen, and a former english litera
 I'm blessed to live in the greatest place on earth -- New York City. 
 
 My recent long-form writing is located [here](./essays.html).
-
-[Here's](./love.md) a list of some of my favorite things
-
-You can find me on [substack](https://substack.com/@moncrief) and [x](./twtdisclaimer.md)
+Here's a list of some of my [favorite things](./love.html)
+You can also find me on [substack](https://substack.com/@moncrief) and [x](./twtdisclaimer.html)
