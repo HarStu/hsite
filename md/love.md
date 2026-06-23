@@ -70,10 +70,10 @@ are my favorite sports team. how can you not be romantic about baseball?
 is both a descontruction of and love letter to shonen manga, an incredibly formative genre for me. togashi's panel composition is also second to none. 
 
 **r!animorphs**
-is rationalist fanfiction. i read in a delirious frenzy after a breakup. i don't put it here lightly; it fights its way on this list by being, against all odds, the finest xenofiction i've personally read. ambitious beyond belief. in desperate need of an editor. somehow sticks the landing.
+is rationalist fanfiction. i read in a delirious frenzy after a breakup. i don't put it here lightly; it fights its way on this list by being, against all odds, too good to deny loving. particular in desperate need of an editor. somehow sticks the landing.
 
 **Yung Lean** is my favorite musician, and i am deeply grateful to have grown up watching him grow as an artist. 
 
-**Maud Lewis** reminds me of Nova Scotia, where much of my family is from. Her work makes me feel soft and safe. 
+**Maud Lewis** reminds me of Nova Scotia, where much of my family is from. her work makes me feel soft and safe. 
 
 
