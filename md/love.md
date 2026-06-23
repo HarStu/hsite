@@ -58,7 +58,7 @@ is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've never
 is a direct injection game-as-visceral-sensory-pleasure. where developers throw around the term 'juice', this is the gold standard.
 
 **Dark Souls**
-, well, everything that can be said about it has been. it really is that good. 
+is one of those masterpieces that has been discussed to death. it's here because it really is that good.
 
 ## Misc
 _Other things_
