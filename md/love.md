@@ -20,7 +20,7 @@ is an old favorite that i will not return to until i'm a father.
 may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one I cried the hardest over. ishiguro is my favorite author, and never let me go stands for him on this list.
 
 **Norweigan Wood**
-is my favorite novel about coming-of-age
+is my favorite novel about coming-of-age.
 
 
 ## Nonfiction, Spirituality, Theory, Essays
@@ -30,7 +30,7 @@ _Models I return to_
 is the most useful, granular guide to inner work i've ever encountered
 
 **A Path With Heart**
-is as close to a wise friend as a book can be
+is as close to a wise friend as a book can be.
 
 **The Age of Surveillance Capitalism**
 defines a remarkably useful vocabulary for talking about the relationship between tech companies and the public.
@@ -52,7 +52,7 @@ is a classic i played competitively for a number of years in my early 20's. urie
 is a singularly powerful artistic accomplishment, and the primarily reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
 
 **Spelunky**
-is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've never felt compelled to 100%
+is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've never felt compelled to 100%.
 
 **Nuclear Throne**
 is a direct injection game-as-visceral-sensory-pleasure. where developers throw around the term 'juice', this is the gold standard.
