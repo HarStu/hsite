@@ -52,7 +52,7 @@ is a classic i played competitively for a number of years in my early 20's. urie
 is a singularly powerful artistic accomplishment, and the primarily reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
 
 **Spelunky**
-is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've never felt compelled to 100%.
+is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've ever felt compelled to 100%.
 
 **Nuclear Throne**
 is a direct injection game-as-visceral-sensory-pleasure. where developers throw around the term 'juice', this is the gold standard.
