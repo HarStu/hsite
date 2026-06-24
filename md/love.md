@@ -5,7 +5,7 @@ _& short thoughts on each_
 _Broadly, I enjoy novels that unflinchingly model the interior life of a character or characters grappling with something they can't directly face. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
 
 **Fifteen Dogs**
-is my favorite novel. it's heartrending, tragic, and utterly overflowing with love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
+is my favorite novel. it's heartrending, tragic, and utterly overflowing with love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory, and i often mutter it to myself when thinking about death 
 
 **The Once and Future King**
 was assigned to me in an arthurian seminar i took during my english degree. i was half-assing my readings at the time, and skipped most of it. before the exam, i sat in douglas library and read the concluding book, 'candle in the wind', in one sitting. i was surprised by how devastated i was over the collapse of the round table, and how much it stuck in the back of my head afterward. years later, when i first moved to nyc, i found a used copy at a bookstand. this time, i read it slowly, mostly on my commute. 'the ill-made knight' tore my heart up and further deepened my appreciation for 'the candle in the wind'. i'll think about lancelot forever: "he felt in his heart cruelty and cowardice, the things which made him brave and kind"
