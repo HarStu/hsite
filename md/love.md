@@ -2,7 +2,7 @@
 _& short thoughts on each_
 
 ## Novels
-_Broadly, I enjoy novels that unflinchingly model the interior life of a character or characters grappling with something they can't directly grasp. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
+_Broadly, I enjoy novels that unflinchingly model the interior life of a character or characters grappling with something they can't directly face. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
 
 **Fifteen Dogs**
 is heartrending, unblinking, and full of love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
@@ -17,10 +17,10 @@ is as close to a perfect novel as anyone has ever come. left me speechlessly gra
 is an old favorite that i will not return to until i'm a father. 
 
 **Never Let Me Go**
-may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one I cried the hardest over. ishiguro is my favorite author, and never let me go stands for him on this list.
+may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one i cried the hardest over. ishiguro is my favorite author, and never let me go stands for him on this list.
 
 **Norweigan Wood**
-is my favorite novel about coming-of-age.
+is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. 
 
 
 ## Nonfiction, Spirituality, Theory, Essays
@@ -64,13 +64,13 @@ is one of those masterpieces that has been discussed to death. it's here because
 _Other things_
 
 **The Toronto Blue Jays**
-are my favorite sports team. how can you not be romantic about baseball?
+are my favorite sports team. i'll allow them to break my heart for the rest of my life.
 
 **Hunter x Hunter**
 is both a descontruction of and love letter to shonen manga, an incredibly formative genre for me. togashi's panel composition is also second to none. 
 
 **r!animorphs**
-is rationalist fanfiction. i read in a delirious frenzy after a breakup. i don't put it here lightly; it fights its way on this list by being, against all odds, too good to deny loving. particular in desperate need of an editor. somehow sticks the landing.
+is a rationalist re-write of the animorphs franchise. i read in a delirious frenzy after a breakup. it's in desperate need of an editor. i don't put it here willingly; it was just too much fun to even try and pretend i didn't love it.
 
 **Yung Lean** is my favorite musician, and i am deeply grateful to have grown up watching him grow as an artist. 
 
