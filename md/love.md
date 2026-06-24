@@ -5,19 +5,19 @@ _& short thoughts on each_
 _Broadly, I enjoy novels that unflinchingly model the interior life of a character or characters grappling with something they can't directly face. I think literature's main value is in guiding the reader to a unique, unnameable emotion they will carry forever._
 
 **Fifteen Dogs**
-is heartrending, unblinking, and full of love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
+is my favorite novel. it's heartrending, traigc, and utterly overflowing with love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
 
 **The Once and Future King**
-moved me in a way i cannot sufficently express. i have tried. i will think about lancelot forever. "he felt in his heart cruelty and cowardice, the things which made him brave and kind"
+was assigned to me in an arthurian seminar i took while taking my english degree. i was half-assing my readings at the time, and skipped most of it. before the exam, i sat in douglas library and read final 'candle in the wind' book in a sitting, and was surprisingly devastated by the collapse of the round table. it stuck in the back of my head. years later, when i first moved to nyc, i found a used copy at a bookstand. this time, i read it slowly, mostly on my commute. 'the ill-made knight' tore my heart up and further deepened my appreciation for 'the candle in the wind'. i'll think about lancelot forever: "he felt in his heart cruelty and cowardice, the things which made him brave and kind"
 
 **Stoner**
-is as close to a perfect novel as anyone has ever come. left me speechlessly grateful for having had the chance to study literature. 
+is the first novel i read after finishing my english degree. it left me speechlessly grateful for having had the chance to study literature. 
 
 **The Road**
-is an old favorite that i will not return to until i'm a father. 
+is an old favorite. at fourteen, it was the most uncompromising, 'adult' novel i'd ever experienced. the brutality shocked me into reverance, the ending made me cry. i re-read it twice more in high school, then decided that i won't return to it until i'm a father. 
 
 **Never Let Me Go**
-may not be the most the most subtle or artistically ambitious novel ishiguro has written, but it's the one i cried the hardest over. ishiguro is my favorite author, and never let me go stands for him on this list.
+is my favorite novel from ishiguro, my favorite author. while i read this one in high school (and liked it), my appreciation for ishiguro was deepened by my favorite university professor assigning his novels in most of her classes. the way he renders quiet, muddled interiority never fails to move me. i'm in awe of how he does so much with so little, his ability to slowly and generously guide his characters to agonizing catharsis. after reading klara and the sun, remains of the day, and the buried giant, i re-read never let me go during a daylong personal retreat and was more devastated than i thought i possibly could be by a story i already knew the ending to. i don't think it's his most subtle or ambitious novel, but it's the one that broke my heart the worst. 
 
 **Norweigan Wood**
 is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. 
@@ -27,13 +27,13 @@ is my favorite coming-of-age novel, one of those rare books that found me at the
 _Models I return to_
 
 **Meditation from Cold Start to Complete Mastery: a Manual of Global Wayfinding Meditation**
-is the most useful, granular guide to inner work i've ever encountered
+is the most useful, granular guide to inner work i've ever encountered. as a kid, i struggled with the limitations of language. sure, i can talk about what's "going on in my head", but the things "in my head" aren't just language, and any language in my head begets more language, faster than i can possible say it outloud... of anything i've read related to inner work, this project is the best at meeting me in the middle of that paradox. i really admire the ambition, and return to pick through it regularly. 
 
 **A Path With Heart**
-is as close to a wise friend as a book can be.
+is one i'm still working through, but feel an incredible amount of warmth toward. a lot of spiritual material feels very sterile to me, but this book reads as close to a wise friend as text can. 
 
 **The Age of Surveillance Capitalism**
-defines a remarkably useful vocabulary for talking about the relationship between tech companies and the public.
+defines a remarkably useful vocabulary for talking about the relationship between tech companies and the public. 
 
 **...Three, Two, One, Contact: Times Square Red**
 describes an incredibly obvious and useful distinction between 'contact' and 'networking' interactions. one of those forks that can't be unseen.
