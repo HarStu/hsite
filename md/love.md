@@ -8,7 +8,7 @@ _Broadly, I enjoy novels that unflinchingly model the interior life of a charact
 is my favorite novel. it's heartrending, traigc, and utterly overflowing with love. read in a single sitting, punctuated by bouts of ugly crying. i have one of prince's poems committed to memory. 
 
 **The Once and Future King**
-was assigned to me in an arthurian seminar i took while taking my english degree. i was half-assing my readings at the time, and skipped most of it. before the exam, i sat in douglas library and read final 'candle in the wind' book in a sitting, and was surprisingly devastated by the collapse of the round table. it stuck in the back of my head. years later, when i first moved to nyc, i found a used copy at a bookstand. this time, i read it slowly, mostly on my commute. 'the ill-made knight' tore my heart up and further deepened my appreciation for 'the candle in the wind'. i'll think about lancelot forever: "he felt in his heart cruelty and cowardice, the things which made him brave and kind"
+was assigned to me in an arthurian seminar i took during my english degree. i was half-assing my readings at the time, and skipped most of it. before the exam, i sat in douglas library and read final 'candle in the wind' book in a sitting, and was surprisingly devastated by the collapse of the round table. it stuck in the back of my head. years later, when i first moved to nyc, i found a used copy at a bookstand. this time, i read it slowly, mostly on my commute. 'the ill-made knight' tore my heart up and further deepened my appreciation for 'the candle in the wind'. i'll think about lancelot forever: "he felt in his heart cruelty and cowardice, the things which made him brave and kind"
 
 **Stoner**
 is the first novel i read after finishing my english degree. it left me speechlessly grateful for having had the chance to study literature. 
@@ -20,7 +20,7 @@ is an old favorite. at fourteen, it was the most uncompromising, 'adult' novel i
 is my favorite novel from ishiguro, my favorite author. while i read this one in high school (and liked it), my appreciation for ishiguro was deepened by my favorite university professor assigning his novels in most of her classes. the way he renders quiet, muddled interiority never fails to move me. i'm in awe of how he does so much with so little, his ability to slowly and generously guide his characters to agonizing catharsis. after reading klara and the sun, remains of the day, and the buried giant, i re-read never let me go during a daylong personal retreat and was more devastated than i thought i possibly could be by a story i already knew the ending to. i don't think it's his most subtle or ambitious novel, but it's the one that broke my heart the worst. 
 
 **Norweigan Wood**
-is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. It's ugly in the ways a story about a young man ought to be ugly, and beautiful in all the ways a story about a young man ought to be beautiful. 
+is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. it's ugly in the ways a story about a young man ought to be ugly, and beautiful in all the ways a story about a young man ought to be beautiful. the remainder of my reasons for loving it are private. 
 
 
 ## Nonfiction, Spirituality, Theory, Essays
@@ -49,10 +49,10 @@ _Games are broadly wasted on gamers_
 is a classic i played competitively for a number of years in my early 20's. urien main. retired after placing 17th out of ~1104 at EVO 2024. 
 
 **Rain World**
-is a singularly powerful artistic accomplishment, and the primarily reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
+is the primarily reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
 
 **Spelunky**
-is a perfectly-tuned risk-vs-reward driven sandbox, and the only game i've ever felt compelled to 100%.
+is an impeccable well-tuned risk-vs-reward sandbox, and the only game i've ever felt compelled to 100%.
 
 **Nuclear Throne**
 is a direct injection game-as-visceral-sensory-pleasure. where developers throw around the term 'juice', this is the gold standard.
@@ -64,16 +64,17 @@ is one of those masterpieces that has been discussed to death. it's here because
 _Other things_
 
 **The Toronto Blue Jays**
-are my favorite sports team. i'll allow them to break my heart for the rest of my life.
+are my favorite sports team, and a link to my time in canada. their 2025 world series run showed me how beautiful sports can be, and what a privilege it can be to love something that might amount to nothing. they'll break my heart for the rest of my life. 
 
 **Hunter x Hunter**
-is both a descontruction of and love letter to shonen manga, an incredibly formative genre for me. togashi's panel composition is also second to none. 
+is my favorite shonen. shonen was incredibly formative genre for me; i was totally enamoured with dragon ball z as a sixth-grader, and read all of naruto, bleach, and fullmental alchemist in middle school. i finally watched the 2011 hunter x hunter anime while in university, and loved it in a direct, unmistakable way. it had everything i really appreciated about the shonen that scaffolded my childhood imagination, along with countless sharp twists and a hard edge that kept me on my toes. a few years later, i read the manga, and loved that even more. it's one of my favorite stories. 
 
 **r!animorphs**
-is a rationalist re-write of the animorphs franchise. i read in a delirious frenzy after a breakup. it's in desperate need of an editor. i don't put it here willingly; it was just too much fun to even try and pretend i didn't love it.
+is a rationalist re-write of the animorphs franchise. i read in a delirious frenzy after a breakup. it's in desperate need of an editor. i don't put it here willingly; it was just too much fun to even try and pretend i didn't love it. big fan of the xenofiction segments and way it unflinchingly throws its characters into blatantly unfair situations. also appreciate how, despite really needing an editor, it stuck the ending impressively well. 
 
-**Yung Lean** is my favorite musician, and i am deeply grateful to have grown up watching him grow as an artist. 
+**Yung Lean** is my favorite musician, and i am deeply grateful to have grown up watching him grow as an artist. many of his albums are direct emotional stand-ins for chapters of my life. 
 
 **Maud Lewis** reminds me of Nova Scotia, where much of my family is from. her work makes me feel soft and safe. 
 
+**Neon Genesis Evangelion** blew up my entire life at fifteen. nothing since has ever moved me as much. i'm not sure anything possibly could. 
 
