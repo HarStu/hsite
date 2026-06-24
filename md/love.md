@@ -20,7 +20,7 @@ is an old favorite. at fourteen, it was the most uncompromising, 'adult' novel i
 is my favorite novel from ishiguro, my favorite author. while i read this one in high school (and liked it), my appreciation for ishiguro was deepened by my favorite university professor assigning his novels in most of her classes. the way he renders quiet, muddled interiority never fails to move me. i'm in awe of how he does so much with so little, his ability to slowly and generously guide his characters to agonizing catharsis. after reading klara and the sun, remains of the day, and the buried giant, i re-read never let me go during a daylong personal retreat and was more devastated than i thought i possibly could be by a story i already knew the ending to. i don't think it's his most subtle or ambitious novel, but it's the one that broke my heart the worst. 
 
 **Norweigan Wood**
-is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. 
+is my favorite coming-of-age novel, one of those rare books that found me at the perfect time in life. It's ugly in the ways a story about a young man ought to be ugly, and beautiful in all the ways a story about a young man ought to be beautiful. 
 
 
 ## Nonfiction, Spirituality, Theory, Essays
