@@ -49,10 +49,10 @@ _Games are broadly wasted on gamers_
 is a classic i played competitively for a number of years in my early 20's. urien main. retired after placing 17th out of ~1104 at EVO 2024. 
 
 **Rain World**
-is the primarily reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
+is the primary reason i have faith in games as a valid artform. raw and gorgeous. ignore the dlc.
 
 **Spelunky**
-is an impeccable well-tuned risk-vs-reward sandbox, and the only game i've ever felt compelled to 100%.
+is an impeccably well-tuned risk-vs-reward sandbox, and the only game i've ever felt compelled to 100%.
 
 **Nuclear Throne**
 is a direct injection game-as-visceral-sensory-pleasure. where developers throw around the term 'juice', this is the gold standard.
